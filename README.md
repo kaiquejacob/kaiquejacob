@@ -42,7 +42,7 @@
 
 | Repositório | Descrição | Linguagem |
 |---|---|---|
-| [🗂️ Portfólio](https://github.com/kaiquejacob/Portifolio) | Coleção dos meus principais projetos | Java / Python / C |
+| [🗂️ Portfólio](https://github.com/kaiquejacob/Portifolio) | Coleção dos meus principais projetos | Java / Python / C / SQL|
 | [☕ Evolução em Java](https://github.com/kaiquejacob/Evolucao-em-Java) | Minha evolução com Java | Java |
 | [🐍 Aprendendo Python](https://github.com/kaiquejacob/Aprendendo-Python) | Minha evolução com Python | Python |
 | [⚙️ Aprendendo C](https://github.com/kaiquejacob/Aprendendo-C) | Minha evolução com C | C |
