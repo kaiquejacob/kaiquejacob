@@ -28,88 +28,152 @@
 <br>
 
 <div align="center">
-
 <a href="https://github.com/kaiquejacob">
-  <img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/in/kaíque-jacob-29b8a7386">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a>
-
-<a href="mailto:kaiquejacob975@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+<a href="mailto:">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
 </a>
 
 </div>
 
 ---
 
+## SYSTEM STATUS
 
 ```text
-                               ┌───────────────────────────────────────────────────────────────┐
-                               │                    KJ // DEVELOPER SYSTEM                     │
-                               ├───────────────────────────────────────────────────────────────┤
-                               │                                                               │
-                               │  STATUS            : ONLINE                                   │
-                               │  ROLE              : ADS STUDENT                              │
-                               │  SPECIALIZATION    : BACK-END                                 │
-                               │  PRIMARY STACK     : JAVA / SQL                               │
-                               │  SECONDARY STACK   : PYTHON / C                               │
-                               │  ENVIRONMENT       : GIT / GITHUB / MYSQL                     │
-                               │  CURRENT MISSION   : FIRST BACK-END INTERNSHIP                │
-                               │                                                               │
-                               └───────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────╮
+│  ROLE        : ADS STUDENT                   │
+│  FOCUS       : BACK-END DEVELOPMENT          │
+│  MAIN STACK  : JAVA                          │
+│  ECOSYSTEM   : SPRING                        │
+│  DATABASE    : SQL / MYSQL / POSTGRESQL      │
+│  TOOLS       : GIT / DOCKER / POSTMAN        │
+│  STATUS      : EVOLUTION IN PROGRESS         │
+╰──────────────────────────────────────────────╯
 ```
 
-## Sobre mim
+## `ABOUT ME`
 
-Estudante de **Análise e Desenvolvimento de Sistemas na UNIP** (2º semestre), construindo minha base para atuar profissionalmente em **desenvolvimento Back-end**.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UNIP.
 
-Minha jornada é baseada em prática: estudo um conceito, transformo em código e documento a evolução no GitHub. Foco atual em **Java e Orientação a Objetos** (Coleções, Generics, programação funcional), com SQL, Python e C como stack complementar.
+☕ Foco principal em **Java e desenvolvimento Back-End**.
+
+🚀 Evoluindo em **POO, Collections, Generics, Streams, JDBC, SQL, Spring e APIs REST**.
+
+🧠 Atualmente aprofundando conhecimentos em **arquitetura, boas práticas e ecossistema Spring**.
+
+---
+
+## `JAVA EVOLUTION`
 
 ```text
-> status.get()
-
-Buscando   : primeira oportunidade em Back-end
-Estudando  : Java (Streams / próxima etapa: Spring Boot)
-Base       : POO, SQL, lógica de programação
+JAVA
+ │
+ ├── Fundamentos & POO
+ ├── Collections & Generics
+ ├── Lambdas & Streams
+ ├── Exceções & Classes Utilitárias
+ ├── JDBC & Persistência
+ ├── SOLID & Design Patterns
+ └── Spring Ecosystem
+        ├── REST
+        ├── JPA
+        ├── Security
+        └── Spring AI
 ```
 
-## Stack
+---
 
-**Linguagens**
+## `FEATURED PROJECTS`
 
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql&theme=dark" alt="Languages">
+### ☕ [Evolução em Java](https://github.com/kaiquejacob/evolucao-em-java)
 
-**Ferramentas**
+`Java` • `POO` • `Collections` • `Streams` • `JDBC` • `SOLID` • `Design Patterns` • `Spring`
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" alt="Tools">
+> Repositório que acompanha minha evolução prática no ecossistema Java.
 
-## Repositórios em destaque
+### 🏦 Sistema de Banco
 
-| Repositório | Stack | O que tem |
-|---|---|---|
-| [Portifólio](https://github.com/kaiquejacob/Portifolio) | Java, Python, C, SQL | Sistema Bancário (POO com herança/polimorfismo), gestão de biblioteca (MySQL com JOINs e relatórios), e exercícios menores |
-| [Evolução em Java](https://github.com/kaiquejacob/Evolucao-em-Java) | Java | Estudo estruturado do zero: fundamentos, POO, Coleções, Generics, Lambdas — cada pasta com README teórico próprio |
+`Java 21+` • `JDBC` • `MySQL` • `Docker` • `Maven` • `JUnit` • `Mockito`
 
-## GitHub Stats
+> Projeto Back-End com persistência, transações, arquitetura em camadas e integração com API.
 
-<div align="center">
+### 🤖 Spring AI
 
+`Java` • `Spring` • `AI`
 
-<img src="https://streak-stats.demolab.com?user=kaiquejacob&theme=transparent&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=9FB3C8&currStreakNum=E6F1FF&sideNums=E6F1FF&dates=6E8299" alt="GitHub Streak" height="165">
+> Projeto voltado à exploração de Inteligência Artificial dentro do ecossistema Spring.
 
-</div>
+---
+
+## `TECH STACK`
+
+### ☕ Main Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,maven,git,github,postman&theme=dark"/>
+
+</p>
+
+### 🧩 Complementary
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,idea,vscode&theme=dark"/>
+
+</p>
+
+---
+
+## `CURRENT OBJECTIVES`
+
+```text
+[01] Aprofundar Java
+[02] Evoluir no Spring Framework
+[03] Desenvolver APIs REST
+[04] Aprimorar SQL e persistência
+[05] Aplicar SOLID + Design Patterns
+[06] Construir projetos Back-End reais
+[07] Conquistar minha primeira oportunidade na área
+```
+
+---
+
+## `GITHUB ANALYTICS`
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaiquejacob&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquejacob&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kaiquejacob&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-Aberto a conversar sobre oportunidades, projetos ou trocar ideia sobre Java.
+```text
+> SYSTEM.LOG
+> Learning.
+> Building.
+> Improving.
+> Repeating.
+```
 
-<a href="https://github.com/kaiquejacob"><img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-<a href="https://www.linkedin.com/in/kaíque-jacob-29b8a7386"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
-<a href="mailto:kaiquejacob975@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
+### `JAVA IS THE CORE. EVOLUTION IS THE PROCESS.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=000000&stroke=00BFFF"/>
 
 </div>
