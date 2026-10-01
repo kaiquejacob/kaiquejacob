@@ -1,179 +1,103 @@
-<!-- ========================================================= -->
+ <div align="center">
 
-<!--              KAIQUE JACOB — PROFILE README               -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=2F81F7&center=true&vCenter=true&width=780&lines=%5BSYSTEM%5D+BACK-END+DEVELOPER;%5BSYSTEM%5D+JAVA+%26+SPRING+ECOSYSTEM;%5BSYSTEM%5D+BUILDING+REST+APIs..." alt="Typing Animation">
 
-<!--          AI / JARVIS / CYBERPUNK INTERFACE                -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:05070A,50:0B1F3A,100:061A36&text=KA%C3%8DQUE%20JACOB&fontSize=40&fontColor=E6F1FF&fontAlignY=40&desc=ADS%20STUDENT%20%7C%20BACK-END%20JAVA%20DEVELOPER&descAlignY=65&descSize=15" width="100%" alt="Profile Banner">
 
-<!-- ========================================================= -->
-
-<div align="center">
-
-  <!-- SYSTEM BOOT -->
-
-<img
- src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=2F81F7&center=true&vCenter=true&width=850&lines=%5BSYSTEM%5D+INITIALIZING+KAIQUE.JACOB...;%5BSYSTEM%5D+LOADING+DEVELOPER+PROFILE...;%5BSYSTEM%5D+BACK-END+MODULE+ONLINE;%5BSYSTEM%5D+JAVA+%2B+SQL+%2B+PYTHON;%5BSYSTEM%5D+ALL+SYSTEMS+OPERATIONAL." 
- alt="System initialization"
-/>
-
-  <br>
-
-<img
- src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:05070A,50:0B1F3A,100:061A36&text=KAÍQUE%20JACOB&fontSize=46&fontColor=E6F1FF&fontAlignY=38&desc=BACK-END%20DEVELOPER%20IN%20EVOLUTION&descAlignY=62&descSize=17&animation=fadeIn"
- width="100%"
- alt="Kaíque Jacob banner"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://github.com/kaiquejacob">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
-</a>
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge\&logo=linkedin\&logoColor=2F81F7)](https://linkedin.com/in/kaique-jacob)
+[![E-mail](https://img.shields.io/badge/E--mail-0B0F14?style=for-the-badge\&logo=gmail\&logoColor=2F81F7)](mailto:kaiquejacob975@gmail.com)
 
 </div>
 
 ---
 
-## SYSTEM STATUS
+## SOBRE MIM
 
-```text
-╭──────────────────────────────────────────────╮
-│  ROLE        : ADS STUDENT                   │
-│  FOCUS       : BACK-END DEVELOPMENT          │
-│  MAIN STACK  : JAVA                          │
-│  ECOSYSTEM   : SPRING                        │
-│  DATABASE    : SQL / MYSQL / POSTGRESQL      │
-│  TOOLS       : GIT / DOCKER / POSTMAN        │
-│  STATUS      : EVOLUTION IN PROGRESS         │
-╰──────────────────────────────────────────────╯
-```
+Estudante de **Análise e Desenvolvimento de Sistemas**, direcionando minha trajetória para o desenvolvimento Back-end com **Java**. Tenho experiência prática em projetos utilizando POO, JDBC, persistência relacional, APIs REST e testes automatizados.
 
-## `ABOUT ME`
+Atualmente, estou expandindo meus conhecimentos no ecossistema **Spring**, com foco em boas práticas, arquitetura de software e desenvolvimento de aplicações. Busco uma oportunidade de estágio para transformar conhecimento em experiência profissional e continuar evoluindo como desenvolvedor.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UNIP.
-
-☕ Foco principal em **Java e desenvolvimento Back-End**.
-
-🚀 Evoluindo em **POO, Collections, Generics, Streams, JDBC, SQL, Spring e APIs REST**.
-
-🧠 Atualmente aprofundando conhecimentos em **arquitetura, boas práticas e ecossistema Spring**.
+<pre>
+[CURRENT_STATUS]
+> Objetivo       : Estágio em Desenvolvimento de Software.
+> Foco Principal : Java, Back-end e APIs REST.
+> Em aprendizado : Spring Boot, Spring Data JPA e Spring AI.
+> Formação       : Análise e Desenvolvimento de Sistemas.
+> Cursos         : Maratona Java - DevDojo (Concluída).
+</pre>
 
 ---
 
-## `JAVA EVOLUTION`
+## STACK TECNOLÓGICA
 
-```text
-JAVA
- │
- ├── Fundamentos & POO
- ├── Collections & Generics
- ├── Lambdas & Streams
- ├── Exceções & Classes Utilitárias
- ├── JDBC & Persistência
- ├── SOLID & Design Patterns
- └── Spring Ecosystem
-        ├── REST
-        ├── JPA
-        ├── Security
-        └── Spring AI
-```
+**[ LINGUAGENS & FRAMEWORKS ]**
 
----
+![Java](https://img.shields.io/badge/Java%2021%2B-0B0F14?style=for-the-badge\&logo=openjdk\&logoColor=2F81F7)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0B0F14?style=for-the-badge\&logo=springboot\&logoColor=2F81F7)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-0B0F14?style=for-the-badge\&logo=spring\&logoColor=2F81F7)
+![Python](https://img.shields.io/badge/Python-0B0F14?style=for-the-badge\&logo=python\&logoColor=2F81F7)
 
-## `FEATURED PROJECTS`
+**[ BANCO DE DADOS & PERSISTÊNCIA ]**
 
-### ☕ [Evolução em Java](https://github.com/kaiquejacob/evolucao-em-java)
+![MySQL](https://img.shields.io/badge/MySQL-0B0F14?style=for-the-badge\&logo=mysql\&logoColor=2F81F7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0F14?style=for-the-badge\&logo=postgresql\&logoColor=2F81F7)
+![JDBC](https://img.shields.io/badge/JDBC-0B0F14?style=for-the-badge\&logo=databricks\&logoColor=2F81F7)
+![Hibernate](https://img.shields.io/badge/Hibernate-0B0F14?style=for-the-badge\&logo=hibernate\&logoColor=2F81F7)
 
-`Java` • `POO` • `Collections` • `Streams` • `JDBC` • `SOLID` • `Design Patterns` • `Spring`
+**[ FERRAMENTAS & TESTES ]**
 
-> Repositório que acompanha minha evolução prática no ecossistema Java.
-
-### 🏦 Sistema de Banco
-
-`Java 21+` • `JDBC` • `MySQL` • `Docker` • `Maven` • `JUnit` • `Mockito`
-
-> Projeto Back-End com persistência, transações, arquitetura em camadas e integração com API.
-
-### 🤖 Spring AI
-
-`Java` • `Spring` • `AI`
-
-> Projeto voltado à exploração de Inteligência Artificial dentro do ecossistema Spring.
+![Docker](https://img.shields.io/badge/Docker-0B0F14?style=for-the-badge\&logo=docker\&logoColor=2F81F7)
+![JUnit 5](https://img.shields.io/badge/JUnit%205-0B0F14?style=for-the-badge\&logo=junit5\&logoColor=2F81F7)
+![Mockito](https://img.shields.io/badge/Mockito-0B0F14?style=for-the-badge\&logo=java\&logoColor=2F81F7)
+![Postman](https://img.shields.io/badge/Postman-0B0F14?style=for-the-badge\&logo=postman\&logoColor=2F81F7)
+![Maven](https://img.shields.io/badge/Maven-0B0F14?style=for-the-badge\&logo=apachemaven\&logoColor=2F81F7)
+![Gradle](https://img.shields.io/badge/Gradle-0B0F14?style=for-the-badge\&logo=gradle\&logoColor=2F81F7)
+![Git](https://img.shields.io/badge/Git-0B0F14?style=for-the-badge\&logo=git\&logoColor=2F81F7)
+![GitHub](https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge\&logo=github\&logoColor=2F81F7)
 
 ---
 
-## `TECH STACK`
+## PROJETOS EM DESTAQUE
 
-### ☕ Main Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,maven,git,github,postman&theme=dark"/>
-
-</p>
-
-### 🧩 Complementary
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,idea,vscode&theme=dark"/>
-
-</p>
+| Projeto                                                                                  | Tecnologias                              | Descrição                                                                                               |
+| :--------------------------------------------------------------------------------------- | :--------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+| 🤖 **Spring AI Budgeting API(https://github.com/kaiquejacob/spring-ai-budgeting-api)** | `Java` `Spring Boot` `Spring AI` `MySQL` | API REST para gestão financeira com integração de IA generativa, processamento de áudio e Tool Calling. |
+| 🏦 **Sistema Bancário(https://github.com/kaiquejacob/sistema-banco)**                  | `Java` `JDBC` `MySQL` `Docker`           | Sistema bancário com arquitetura em camadas, padrão DAO, transações ACID e testes automatizados.        |
 
 ---
 
-## `CURRENT OBJECTIVES`
+## FORMAÇÃO & OBJETIVOS
 
-```text
-[01] Aprofundar Java
-[02] Evoluir no Spring Framework
-[03] Desenvolver APIs REST
-[04] Aprimorar SQL e persistência
-[05] Aplicar SOLID + Design Patterns
-[06] Construir projetos Back-End reais
-[07] Conquistar minha primeira oportunidade na área
-```
+<pre>
+[EDUCATION]
+> Curso       : Análise e Desenvolvimento de Sistemas
+> Instituição : UNIP
+> Período     : 2026 - 2028
 
----
+[CURRENT_GOALS]
+[✓] Aprofundar conhecimentos em Java e POO
+[✓] Desenvolver aplicações com JDBC e MySQL
+[>] Evoluir no ecossistema Spring Boot
+[>] Aprimorar arquitetura de APIs REST
+[>] Aprofundar conhecimentos em testes automatizados
+[>] Conquistar minha primeira oportunidade na área
 
-## `GITHUB ANALYTICS`
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaiquejacob&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquejacob&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kaiquejacob&theme=tokyonight&hide_border=true"/>
-
-</p>
+</pre>
 
 ---
+
+## CONEXÃO
 
 <div align="center">
 
-```text
-> SYSTEM.LOG
-> Learning.
-> Building.
-> Improving.
-> Repeating.
-```
+<pre>
+[CONNECTION ESTABLISHED]
 
-### `JAVA IS THE CORE. EVOLUTION IS THE PROCESS.`
+LINKEDIN : linkedin.com/in/kaique-jacob
+EMAIL    : kaiquejacob975@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=000000&stroke=00BFFF"/>
+[SYSTEM] KEEP_LEARNING();
+[SYSTEM] KEEP_BUILDING();
+</pre>
 
 </div>
