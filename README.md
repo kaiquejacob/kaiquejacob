@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:05070A,50:0B1F3A,100:061A36&text=KA%C3%8DQUE%20JACOB&fontSize=40&fontColor=E6F1FF&fontAlignY=40&desc=ADS%20STUDENT%20%7C%20BACK-END%20JAVA%20DEVELOPER&descAlignY=65&descSize=15" width="100%" alt="Profile Banner">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaíque-jacob)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaique-jacob)
 [![E-mail](https://img.shields.io/badge/E--mail-0B0F14?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquejacob975@gmail.com)
 
 </div>
